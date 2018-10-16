@@ -105,3 +105,10 @@ The exporter is likely a little different from other
 ### Using the Importer
 
 
+### Pako COmpression
+
+This file format uses pako to compress the models. A version of pako.min.js has been included in this repository for compatibility issues. The original repository can be found here: https://github.com/nodeca/pako
+
+### Copyright
+
+Copyright 2018, Benjamin Collins MIT License
